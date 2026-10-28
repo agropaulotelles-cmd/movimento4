@@ -1,0 +1,6 @@
+{
+  "name": "Expedição & Carregamentos - Gestão Logística",
+  "description": "Painel de controle operacional de carregamentos, expedição de paletes e monitoramento de frota em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
